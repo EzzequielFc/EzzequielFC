@@ -81,17 +81,7 @@ Se eu pudessse me definir em 3 palavras, certamente seriam, Otimista, Perseveran
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ezequielfc&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-  
+ 
 
 <br/>  
 
@@ -99,4 +89,3 @@ Se eu pudessse me definir em 3 palavras, certamente seriam, Otimista, Perseveran
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
