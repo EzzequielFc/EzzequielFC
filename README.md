@@ -7,10 +7,13 @@
   
 
 - 🔭Um pouco sobre mim : 
-Me tornando um Desenvolvedor Full Stack, sem experiência de atuação no mercado, estou em busca da minha primeiro oportunidade.
-Iniciei minha graduação em Engenharia da computação em 2019. Tenho grande interesse em resolver problemas e a área da computação sempre me fascinou por possibilitar solucioná-los.
-Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, estou pronto para superar meus limites!
-Se eu pudessse me definir em 3 palavras, certamente seriam, Otimista, Perseverante e Resiliente  
+Minha jornada na Engenharia da Computação começou em 2019 e, desde então, tenho me dedicado a utilizar a computação para resolver desafios complexos.
+
+Um dos momentos mais desafiadores e gratificantes da minha carreira foi a criação do meu Trabalho de Conclusão de Curso (TCC), um projeto web voltado para a construção civil. A experiência de construir algo tão complexo do zero foi fundamental para o meu crescimento profissional e pessoal.
+
+Minha abordagem para aprender novas tecnologias é bem prática – gosto de colocar a mão na massa e aprender fazendo.
+
+Mantenho minhas habilidades atualizadas através de cursos, acompanhando as últimas atualizações de stacks e seguindo canais tech relevantes. Meus objetivos profissionais incluem aprimorar minhas habilidades atuais e explorar o empreendedorismo.
   
 
 <br/>  
