@@ -6,56 +6,50 @@
 ### <div align="center">Oi, sou o Ezequiel Campos, FullStack Developer 👨‍💻 Graduando em Engenharia da computação 🚀</div>  
   
 
-- 🔭Um pouco sobre mim : 
-Minha jornada na Engenharia da Computação começou em 2019 e, desde então, tenho me dedicado a utilizar a computação para resolver desafios complexos.
+I am a software developer with over 2 years of experience focused on React Native, as well as working with React and NextJs. My expertise includes the creation, maintenance, and improvement of mobile and web applications, always seeking innovative and scalable solutions.
 
-Um dos momentos mais desafiadores e gratificantes da minha carreira foi a criação do meu Trabalho de Conclusão de Curso (TCC), um projeto web voltado para a construção civil. A experiência de construir algo tão complexo do zero foi fundamental para o meu crescimento profissional e pessoal.
+Technical Skills
+-> Technologies: React Native, React, NextJs, TypeScript, NodeJs
+-> Core Competencies: Communication, Problem Solving, Full Stack Development
+-> Tools and Methodologies: Git, Scrum
 
-Minha abordagem para aprender novas tecnologias é bem prática – gosto de colocar a mão na massa e aprender fazendo.
+Notable Projects
+-> 238 Suplementos: Developed and published the 238Suplementos app on the Google Play Store. 
+-> GitHub: My GitHub profile is always updated with the projects and challenges I face. 
 
-Mantenho minhas habilidades atualizadas através de cursos, acompanhando as últimas atualizações de stacks e seguindo canais tech relevantes. Meus objetivos profissionais incluem aprimorar minhas habilidades atuais e explorar o empreendedorismo.
+Career Objectives
+-> Short Term: Constantly improve my development skills and achieve professional maturity that allows me to tackle more complex challenges.
+-> Long Term: Aspire to an international career and explore entrepreneurship opportunities, bringing innovation and new perspectives to the tech market.
+
+I am seeking opportunities that challenge me and allow me to expand my knowledge, contributing to my development as a more complete developer, prepared for future challenges.
+
+<br />
+Pt-BR
+Sou um desenvolvedor de software com mais de 2 anos de experiência focada em React Native, além de trabalhar com React e NextJs. Minha expertise inclui a criação, manutenção e melhoria de aplicativos móveis e web, sempre buscando soluções inovadoras e escaláveis.
+
+Habilidades Técnicas
+ -> Tecnologias: React Native, React, NextJs, TypeScript, NodeJs.
+-> Principais Competências: Comunicação, Resolução de Problemas, Desenvolvimento Full Stack.
+-> Ferramentas e Metodologias: Git, Scrum.
+
+Projetos Notáveis:
+
+-> 238 Suplementos: Desenvolvi e publiquei o aplicativo 238Suplementos na Google Play Store. 
+https://play.google.com/store/apps/details?id=com.impulsaodigital.suplementos238
+-> GitHub: Meu perfil no GitHub está sempre atualizado com os projetos e desafios que enfrento. 
+https://github.com/EzzequielFc?tab=repositories
+
+Busco oportunidades que me desafiem e permitam expandir meus conhecimentos, contribuindo para minha formação como um desenvolvedor mais completo e preparado para os desafios futuros.
+
+Objetivos de Carreira
+ -> Curto Prazo: Aprimorar constantemente minhas habilidades de desenvolvimento e alcançar uma maturidade profissional que me permita enfrentar desafios mais complexos.
+-> Longo Prazo: Aspirar a uma carreira internacional e explorar oportunidades de empreendedorismo, trazendo inovação e novas perspectivas para o mercado de tecnologia.
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Outros  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-
-<br />
 
 ----
